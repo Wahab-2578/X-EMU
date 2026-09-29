@@ -1,0 +1,6 @@
+{
+  "name": "XEMU",
+  "description": "Professional PC Game Hub and compatibility launcher for Android in landscape orientation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
